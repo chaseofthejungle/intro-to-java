@@ -3,9 +3,14 @@
   
 Java is also renowned for its *APIs* (Application Programming Interfaces), which have both minor and major differences across Java versions. Each API contains pre-built packages and classes that can be imported into programs to provide commonly used features/functionalities.
   
+#### Table of Contents
+  
+1. [JVM, JRE, and JDK: Three Key Acronyms](#three-keys)
+2. [Miscellaneous Keywords and Concepts](#misc)
+  
 <hr />
 
-## 1. JVM, JRE, and JDK: Three Key Acronyms
+## 1. <a name="three-keys">JVM, JRE, and JDK: Three Key Acronyms</a>
   
 | | **JVM** | **JRE** | **JDK** |
 | :---: | :---: | :---: | :---: |
@@ -16,7 +21,7 @@ Java is also renowned for its *APIs* (Application Programming Interfaces), which
   
 <hr />
 
-## 2. Miscellaneous Keywords and Concepts
+## 2. <a name="misc">Miscellaneous Keywords and Concepts</a>
   
 * The `static` keyword creates class members that belong to a class instead of an instance of the class (an object).
   + Thus, these class members are shared among every instance of that class.  

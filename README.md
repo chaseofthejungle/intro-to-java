@@ -7,6 +7,7 @@ Java is also renowned for its *APIs* (Application Programming Interfaces), which
   
 1. [JVM, JRE, and JDK: Three Key Acronyms](#three-keys)
 2. [Miscellaneous Keywords and Concepts](#misc)
+3. [Supplemental Resource](#supplemental)
   
 <hr />
 
@@ -34,6 +35,12 @@ Java is also renowned for its *APIs* (Application Programming Interfaces), which
 * A critical difference between `String` and `StringBuffer` is that the former is immutable while the latter is mutable (modifiable).  
 * The `.equals()` method is used for comparing the content of objects, while the `==` operator is used to compare objects' references.  
   
+<hr />
+
+## 3. <a name="supplemental">Supplemental Resource</a>
+
+[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)
+
 <hr />
   
 TODO: Reallocate 'Miscellaneous' section content into various new sections.

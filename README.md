@@ -7,7 +7,7 @@ Java is also renowned for its *APIs* (Application Programming Interfaces), which
   
 1. [JVM, JRE, and JDK: Three Key Acronyms](#three-keys)
 2. [Miscellaneous Keywords and Concepts](#misc)
-3. [Supplemental Resource](#supplemental)
+3. [Supplemental Resources](#supplemental)
   
 <hr />
 
@@ -37,9 +37,10 @@ Java is also renowned for its *APIs* (Application Programming Interfaces), which
   
 <hr />
 
-## 3. <a name="supplemental">Supplemental Resource</a>
+## 3. <a name="supplemental">Supplemental Resources</a>
 
-[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)
+[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)  
+[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)
 
 <hr />
   

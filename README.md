@@ -24,24 +24,26 @@ Java is also renowned for its *APIs* (Application Programming Interfaces), which
 
 ## 2. <a name="misc">Miscellaneous Keywords and Concepts</a>
   
-* The `static` keyword creates class members that belong to a class instead of an instance of the class (an object).
-  + Thus, these class members are shared among every instance of that class.  
-* The `final` keyword declares constant methods and variables, which cannot be overriden, and classes that cannot be extended.  
-* The `this` keyword is used to refer to a present instance of a class, differentiating between local and instance variables.  
-* The `try` keyword creates a block of code that might throw an exception.
-  + The `catch` keyword creates a block that can handle that exception.
-  + The (optional in exceptional handling) `finally` keyword creates a code block that will be executed even if an exception is not thrown.
+* The `static` keyword creates class members that *belong to a class*.
+  + Thus, these class members are *shared among every instance of that class*.
+  + Non-static class members would belong to an object (an *instance of the class*).
+* The `final` keyword declares *constant* methods and variables.
+  + As they are constants, they *cannot be overriden*.
+  + *Unextendable classes* can also be created.
+* The `this` keyword is used to refer to a *present instance of a class*.
+  + This provides differentiation between *local and instance variables*.  
+* The `try` keyword creates a block of code that *might throw an exception*.
+  + The `catch` keyword creates a block that can *handle that exception*.
+  + The (optional) `finally` keyword creates a code block to be executed *even if an exception is not thrown*.
   
-* A critical difference between `String` and `StringBuffer` is that the former is immutable while the latter is mutable (modifiable).  
-* The `.equals()` method is used for comparing the content of objects, while the `==` operator is used to compare objects' references.  
+* `String` class instances are immutable (not modifiable).
+  + `StringBuffer` class instances are mutable.  
+* The `.equals()` method is used for comparing the content of objects.
+  + The `==` operator is used to compare objects' references.  
   
 <hr />
 
 ## 3. <a name="supplemental">Supplemental Resources</a>
 
-[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)  
-[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)
-
-<hr />
-  
-TODO: Reallocate 'Miscellaneous' section content into various new sections.
+* [Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)  
+* [Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)

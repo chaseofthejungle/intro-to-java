@@ -45,5 +45,6 @@ Java is also renowned for its *APIs* (Application Programming Interfaces), which
 
 ## 3. <a name="supplemental">Supplemental Resources</a>
 
-* [Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)  
-* [Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)
+* *[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)*
+* *[Java Quick Reference Guide](https://github.com/chaseofthejungle/java-quick-reference-guide)*
+* *[Official Java Platform SE 8 API](https://docs.oracle.com/javase/8/docs/api/)*
